@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding lecture
 file: /courses/14-662-labor-economics-ii-spring-2015/13e21d77f22af33e65cb23f30ef19770_MIT14_662S15_lec_slides17.pdf
 file_size: 1186174
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
