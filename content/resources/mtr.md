@@ -4,8 +4,6 @@ description: This is a special file that contains information regarding mtr.
 file: /courses/14-662-labor-economics-ii-spring-2015/ad6aac179cb63866aa0600560e4fa71f_MTR.mat
 file_size: 22743
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

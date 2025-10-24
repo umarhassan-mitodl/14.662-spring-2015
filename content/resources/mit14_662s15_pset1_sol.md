@@ -4,8 +4,6 @@ description: This is a file that contains information regarding problem set 1 so
 file: /courses/14-662-labor-economics-ii-spring-2015/4c81460cd37991179822806158df84ae_MIT14_662S15_pset1_sol.pdf
 file_size: 835782
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

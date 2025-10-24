@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets assigned for the course, accompanying
   files, and instructions for the research proposal assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

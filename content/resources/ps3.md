@@ -5,8 +5,6 @@ description: This is a special file that contains information regarding problem 
 file: /courses/14-662-labor-economics-ii-spring-2015/33fb114b7462f778a56865c00965723a_ps3.m
 file_size: 3857
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
