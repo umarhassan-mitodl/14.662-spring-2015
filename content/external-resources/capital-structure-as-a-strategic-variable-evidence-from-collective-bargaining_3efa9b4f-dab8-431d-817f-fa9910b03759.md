@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://dx.doi.org/10.1111/j.1540-6261.2010.01565.x
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: 'Capital Structure as a Strategic Variable: Evidence from Collective Bargaining'
+uid: 3efa9b4f-dab8-431d-817f-fa9910b03759
+wayback_url: ''
+---
